@@ -51,10 +51,11 @@
 </head>
 <body>
 
-  <header>
-    <h1>Welcome to MBAD</h1>
-    <p>We have all your programing needs</p>
-  </header>
+<header>
+  <img src="header.jpg" alt="MBAD Header Image" style="width: 100%; height: auto;" />
+  <h1>Welcome to MBAD</h1>
+  <p>We have all your programming needs</p>
+</header>
 
   <nav>
     <a href="#about">About</a>
