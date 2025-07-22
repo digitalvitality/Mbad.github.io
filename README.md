@@ -66,10 +66,22 @@
     <a href="#contact">Contact</a>
   </nav>
 
-  <section id="about">
-    <h2>About</h2>
-    <p>Have a PCM thats been over heated? Water Damaged? Need a used one to simply work in your car? We've got your back!.</p>
-  </section>
+<section id="about">
+  <h2>About MBAD</h2>
+  <p>
+    At MBAD, we specialize in restoring and reprogramming used automotive control modules so they work like new — and work specifically with your vehicle. Whether it’s a failed ECU, PCM, TCM, or a lost key, our mission is to get your vehicle back on the road quickly, reliably, and affordably.
+  </p>
+  <p>
+    Modern vehicles rely heavily on electronic modules that manage everything from engine performance to transmission behavior and security systems. When these parts fail or become damaged — due to overheating, water exposure, or electrical faults — replacements from the dealer can be expensive or even unavailable.
+  </p>
+  <p>
+    That’s where we come in. We source and test used modules, then flash, reprogram, or clone them to match your vehicle’s specific requirements. This allows you to reuse hardware that’s otherwise discarded — saving you time, money, and hassle.
+  </p>
+  <p>
+    Whether you're a DIYer, a repair shop, or a dealership, MBAD offers tailored solutions for your module programming needs. All work is performed using professional-grade diagnostic tools and tested under real-world conditions for performance and reliability.
+  </p>
+</section>
+
 
   <section id="services" style="background-color: #f4f4f4;">
     <h2>Services</h2>
