@@ -52,7 +52,7 @@
 <body>
 
   <header>
-    <h1>Welcome MBAD</h1>
+    <h1>Welcome to MBAD</h1>
     <p>We have all your programing needs</p>
   </header>
 
