@@ -51,11 +51,14 @@
 </head>
 <body>
 
-<header>
-  <img src="header.jpg" alt="MBAD Header Image" style="width: 100%; height: auto;" />
-  <h1>Welcome to MBAD</h1>
-  <p>We have all your programming needs</p>
+<header style="position: relative; text-align: center; color: white;">
+  <img src="header.jpg" alt="MBAD Header Image" style="width: 100%; height: auto; display: block;" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1 style="margin: 0; font-size: 3em;">Welcome to MBAD</h1>
+    <p>We have all your programming needs</p>
+  </div>
 </header>
+
 
   <nav>
     <a href="#about">About</a>
