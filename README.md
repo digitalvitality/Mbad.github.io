@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Simple One Page Website</title>
+  <title>MBAD</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -53,8 +52,8 @@
 <body>
 
   <header>
-    <h1>Welcome to My Website</h1>
-    <p>A simple single-page layout</p>
+    <h1>Welcome MBAD</h1>
+    <p>We have all your programing needs</p>
   </header>
 
   <nav>
@@ -65,7 +64,7 @@
 
   <section id="about">
     <h2>About</h2>
-    <p>This is a simple HTML and CSS single-page site.</p>
+    <p>Have a PCM thats been over heated? Water Damaged? Need a used one to simply work in your car? We've got your back!.</p>
   </section>
 
   <section id="services" style="background-color: #f4f4f4;">
